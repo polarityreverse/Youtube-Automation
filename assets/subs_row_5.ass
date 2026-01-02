@@ -1,0 +1,52 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,BorderStyle,Outline,Shadow,Alignment,MarginV
+Style: Default,Calibri,85,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,1,1,4,0,2,280
+Style: CTA,Calibri,90,&H0000FFFF,&H000000FF,&H00000000,&H00000000,1,0,1,4,0,2,960
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.12,0:00:01.30,Default,,0,0,0,,{\k40}WELL, {\k36}WHAT {\k32}IS {\k9}A
+Dialogue: 0,0:00:01.30,0:00:03.26,Default,,0,0,0,,{\k77}WORMHOLE? {\k65}IMAGINE {\k39}FOLDING {\k13}THE
+Dialogue: 0,0:00:03.26,0:00:04.68,Default,,0,0,0,,{\k60}ENTIRE {\k53}UNIVERSE {\k17}LIKE {\k10}A
+Dialogue: 0,0:00:04.68,0:00:06.04,Default,,0,0,0,,{\k32}SHEET {\k19}OF {\k58}PAPER, {\k25}AND
+Dialogue: 0,0:00:06.04,0:00:07.77,Default,,0,0,0,,{\k46}PUNCHING {\k15}A {\k60}TUNNEL {\k51}STRAIGHT
+Dialogue: 0,0:00:07.77,0:00:08.70,Default,,0,0,0,,{\k33}THROUGH {\k59}IT.
+Dialogue: 0,0:00:08.70,0:00:10.87,Default,,0,0,0,,{\k75}WORMHOLES {\k13}ARE {\k66}THEORETICAL {\k61}SHORTCUTS
+Dialogue: 0,0:00:10.87,0:00:12.64,Default,,0,0,0,,{\k24}THROUGH {\k86}SPACETIME, {\k46}PREDICTED {\k19}BY
+Dialogue: 0,0:00:12.64,0:00:14.42,Default,,0,0,0,,{\k64}EINSTEIN'S {\k59}EQUATIONS {\k13}OF {\k39}GENERAL
+Dialogue: 0,0:00:14.42,0:00:15.39,Default,,0,0,0,,{\k97}RELATIVITY.
+Dialogue: 0,0:00:15.39,0:00:16.15,Default,,0,0,0,,{\k29}THINK {\k11}OF {\k15}IT {\k19}AS
+Dialogue: 0,0:00:16.15,0:00:17.53,Default,,0,0,0,,{\k15}A {\k44}BRIDGE {\k49}CONNECTING {\k28}TWO
+Dialogue: 0,0:00:17.53,0:00:19.16,Default,,0,0,0,,{\k39}DISTANT {\k32}POINTS {\k15}IN {\k75}SPACE,
+Dialogue: 0,0:00:19.16,0:00:21.21,Default,,0,0,0,,{\k81}POTENTIALLY {\k35}LIGHT {\k30}YEARS {\k58}APART,
+Dialogue: 0,0:00:21.21,0:00:23.05,Default,,0,0,0,,{\k34}INTO {\k9}A {\k77}TRAVERSABLE {\k61}TUNNEL.
+Dialogue: 0,0:00:23.05,0:00:24.37,Default,,0,0,0,,{\k24}THE {\k68}INTERIOR {\k23}WOULD {\k16}BE
+Dialogue: 0,0:00:24.37,0:00:26.16,Default,,0,0,0,,{\k34}LINED {\k19}WITH {\k61}EXOTIC {\k62}MATTER,
+Dialogue: 0,0:00:26.16,0:00:27.68,Default,,0,0,0,,{\k20}A {\k59}SUBSTANCE {\k24}WITH {\k47}NEGATIVE
+Dialogue: 0,0:00:27.68,0:00:29.39,Default,,0,0,0,,{\k45}ENERGY {\k55}DENSITY {\k19}THAT {\k50}PREVENTS
+Dialogue: 0,0:00:29.39,0:00:31.01,Default,,0,0,0,,{\k15}THE {\k37}TUNNEL {\k20}FROM {\k89}COLLAPSING.
+Dialogue: 0,0:00:31.01,0:00:32.59,Default,,0,0,0,,{\k42}LIGHT {\k53}ENTERING {\k27}ONE {\k33}MOUTH
+Dialogue: 0,0:00:32.59,0:00:34.10,Default,,0,0,0,,{\k19}WOULD {\k42}EMERGE {\k68}INSTANTLY {\k19}FROM
+Dialogue: 0,0:00:34.10,0:00:35.58,Default,,0,0,0,,{\k16}THE {\k59}OTHER, {\k46}BENDING {\k26}THROUGH
+Dialogue: 0,0:00:35.58,0:00:37.21,Default,,0,0,0,,{\k54}DIMENSIONS {\k16}WE {\k31}CAN'T {\k60}PERCEIVE
+Dialogue: 0,0:00:37.21,0:00:38.37,Default,,0,0,0,,{\k116}DIRECTLY.
+Dialogue: 0,0:00:38.37,0:00:39.58,Default,,0,0,0,,{\k21}BUT {\k26}HERE'S {\k11}THE {\k60}PROBLEM
+Dialogue: 0,0:00:39.58,0:00:41.80,Default,,0,0,0,,{\k38}EVEN {\k23}IF {\k73}WORMHOLES {\k87}EXIST,
+Dialogue: 0,0:00:41.80,0:00:43.15,Default,,0,0,0,,{\k42}KEEPING {\k25}ONE {\k44}OPEN {\k23}WOULD
+Dialogue: 0,0:00:43.15,0:00:45.10,Default,,0,0,0,,{\k49}REQUIRE {\k29}MORE {\k68}EXOTIC {\k47}MATTER
+Dialogue: 0,0:00:45.10,0:00:46.44,Default,,0,0,0,,{\k29}THAN {\k47}LIKELY {\k47}EXISTS {\k9}IN
+Dialogue: 0,0:00:46.44,0:00:47.45,Default,,0,0,0,,{\k16}THE {\k84}UNIVERSE.
+Dialogue: 0,0:00:47.45,0:00:49.71,Default,,0,0,0,,{\k21}THEY {\k47}REMAIN {\k67}MATHEMATICAL {\k89}POSSIBILITIES,
+Dialogue: 0,0:00:49.71,0:00:51.14,Default,,0,0,0,,{\k77}THEORETICAL {\k40}DOORS {\k10}IN {\k14}THE
+Dialogue: 0,0:00:51.14,0:00:52.40,Default,,0,0,0,,{\k41}FABRIC {\k13}OF {\k53}REALITY {\k16}THAT
+Dialogue: 0,0:00:52.40,0:00:54.16,Default,,0,0,0,,{\k26}WE'VE {\k37}NEVER {\k112}OBSERVED.
+Dialogue: 0,0:00:54.16,0:00:54.89,Default,,0,0,0,,{\k26}WHAT {\k12}DO {\k12}YOU {\k20}WANT
+Dialogue: 0,0:00:54.89,0:00:56.39,Default,,0,0,0,,{\k11}TO {\k25}SEE {\k77}NEXT? {\k34}DROP
+Dialogue: 0,0:00:56.39,0:00:57.24,Default,,0,0,0,,{\k18}YOUR {\k41}IDEA {\k12}IN {\k11}THE
+Dialogue: 0,0:00:57.24,0:00:58.14,Default,,0,0,0,,{\k90}COMMENTS
+Dialogue: 0,0:00:58.14,0:01:00.14,CTA,,0,0,0,,SUBSCRIBE FOR MORE

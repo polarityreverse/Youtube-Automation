@@ -1,0 +1,83 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,BorderStyle,Outline,Shadow,Alignment,MarginV
+Style: Default,Calibri,85,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,1,1,4,0,2,280
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.10,0:00:01.60,Default,,0,0,0,,{\k16}YOUR {\k55}HEADPHONES {\k18}ARE {\k59}ERASING
+Dialogue: 0,0:00:01.60,0:00:03.03,Default,,0,0,0,,{\k48}SOUND {\k42}BEFORE {\k13}IT {\k37}REACHES
+Dialogue: 0,0:00:03.03,0:00:04.31,Default,,0,0,0,,{\k20}YOUR {\k106}EARS.
+Dialogue: 0,0:00:04.31,0:00:06.03,Default,,0,0,0,,{\k29}NOT {\k45}BLOCKING {\k65}IT, {\k32}NOT
+Dialogue: 0,0:00:06.03,0:00:08.34,Default,,0,0,0,,{\k47}MUFFLING {\k65}IT, {\k67}ACTUALLY {\k51}DELETING
+Dialogue: 0,0:00:08.34,0:00:10.33,Default,,0,0,0,,{\k22}IT {\k24}FROM {\k153}EXISTENCE.
+Dialogue: 0,0:00:10.33,0:00:11.44,Default,,0,0,0,,{\k37}THIS {\k22}IS {\k15}THE {\k35}HIDDEN
+Dialogue: 0,0:00:11.44,0:00:12.71,Default,,0,0,0,,{\k54}WAR {\k50}HAPPENING {\k10}AT {\k12}THE
+Dialogue: 0,0:00:12.71,0:00:14.69,Default,,0,0,0,,{\k33}SPEED {\k12}OF {\k150}SOUND.
+Dialogue: 0,0:00:14.69,0:00:16.74,Default,,0,0,0,,{\k37}NOISE {\k85}CANCELLATION {\k51}BEGINS {\k31}WITH
+Dialogue: 0,0:00:16.74,0:00:19.74,Default,,0,0,0,,{\k111}LISTENING, {\k28}NOT {\k159}BLOCKING.
+Dialogue: 0,0:00:19.74,0:00:21.27,Default,,0,0,0,,{\k45}TINY {\k80}MICROPHONES {\k12}ON {\k15}THE
+Dialogue: 0,0:00:21.27,0:00:22.77,Default,,0,0,0,,{\k53}OUTSIDE {\k9}OF {\k16}YOUR {\k70}HEADPHONES
+Dialogue: 0,0:00:22.77,0:00:24.58,Default,,0,0,0,,{\k66}CONSTANTLY {\k41}SAMPLE {\k16}THE {\k56}AMBIENT
+Dialogue: 0,0:00:24.58,0:00:26.30,Default,,0,0,0,,{\k39}SOUND {\k37}AROUND {\k95}YOU.
+Dialogue: 0,0:00:26.30,0:00:28.12,Default,,0,0,0,,{\k24}THAT {\k55}ACOUSTIC {\k56}DATA {\k45}RACES
+Dialogue: 0,0:00:28.12,0:00:29.42,Default,,0,0,0,,{\k30}INTO {\k10}A {\k49}DIGITAL {\k39}SIGNAL
+Dialogue: 0,0:00:29.42,0:00:32.08,Default,,0,0,0,,{\k63}PROCESSOR {\k23}AT {\k82}MICROSECOND {\k96}SPEED,
+Dialogue: 0,0:00:32.08,0:00:33.23,Default,,0,0,0,,{\k24}WHERE {\k18}THE {\k33}REAL {\k38}MAGIC
+Dialogue: 0,0:00:33.23,0:00:34.96,Default,,0,0,0,,{\k173}HAPPENS.
+Dialogue: 0,0:00:34.96,0:00:36.76,Default,,0,0,0,,{\k17}THE {\k69}PROCESSOR {\k75}ANALYZES {\k17}THE
+Dialogue: 0,0:00:36.76,0:00:39.61,Default,,0,0,0,,{\k56}INCOMING {\k33}NOISE {\k114}WAVEFORM, {\k80}IDENTIFIES
+Dialogue: 0,0:00:39.61,0:00:42.05,Default,,0,0,0,,{\k16}ITS {\k98}FREQUENCY, {\k97}AMPLITUDE, {\k31}AND
+Dialogue: 0,0:00:42.05,0:00:44.13,Default,,0,0,0,,{\k104}PHASE, {\k26}THEN {\k61}PERFORMS {\k15}A
+Dialogue: 0,0:00:44.13,0:00:46.43,Default,,0,0,0,,{\k74}MATHEMATICAL {\k155}INVERSION.
+Dialogue: 0,0:00:46.43,0:00:48.55,Default,,0,0,0,,{\k34}THIS {\k70}ANTINOISE {\k50}SIGNAL {\k55}TRAVELS
+Dialogue: 0,0:00:48.55,0:00:49.82,Default,,0,0,0,,{\k12}TO {\k17}THE {\k56}INTERNAL {\k39}SPEAKER
+Dialogue: 0,0:00:49.82,0:00:51.45,Default,,0,0,0,,{\k73}DRIVER, {\k26}WHICH {\k50}CONVERTS {\k12}THE
+Dialogue: 0,0:00:51.45,0:00:53.28,Default,,0,0,0,,{\k40}DIGITAL {\k58}COMMAND {\k35}INTO {\k47}PHYSICAL
+Dialogue: 0,0:00:53.28,0:00:54.61,Default,,0,0,0,,{\k35}SOUND {\k97}WAVES.
+Dialogue: 0,0:00:54.61,0:00:57.47,Default,,0,0,0,,{\k33}NOW {\k42}COMES {\k12}THE {\k196}PHYSICS.
+Dialogue: 0,0:00:57.47,0:00:58.90,Default,,0,0,0,,{\k21}WHEN {\k15}THE {\k67}ANTINOISE {\k38}WAVE
+Dialogue: 0,0:00:58.90,0:01:00.19,Default,,0,0,0,,{\k30}MEETS {\k16}THE {\k48}ORIGINAL {\k33}NOISE
+Dialogue: 0,0:01:00.19,0:01:03.34,Default,,0,0,0,,{\k62}WAVE, {\k54}SOMETHING {\k92}EXTRAORDINARY {\k105}HAPPENS.
+Dialogue: 0,0:01:03.34,0:01:05.55,Default,,0,0,0,,{\k77}DESTRUCTIVE {\k142}INTERFERENCE.
+Dialogue: 0,0:01:05.55,0:01:06.50,Default,,0,0,0,,{\k18}THE {\k33}PEAKS {\k18}OF {\k24}ONE
+Dialogue: 0,0:01:06.50,0:01:07.84,Default,,0,0,0,,{\k46}WAVE {\k32}FILL {\k11}THE {\k42}TROUGHS
+Dialogue: 0,0:01:07.84,0:01:09.00,Default,,0,0,0,,{\k12}OF {\k13}THE {\k67}OTHER, {\k21}AND
+Dialogue: 0,0:01:09.00,0:01:10.80,Default,,0,0,0,,{\k11}THE {\k26}TWO {\k89}WAVEFORMS {\k52}CANCEL
+Dialogue: 0,0:01:10.80,0:01:12.16,Default,,0,0,0,,{\k19}EACH {\k27}OTHER {\k31}INTO {\k56}ACOUSTIC
+Dialogue: 0,0:01:12.16,0:01:13.37,Default,,0,0,0,,{\k121}SILENCE.
+Dialogue: 0,0:01:13.37,0:01:14.43,Default,,0,0,0,,{\k18}THE {\k54}RESULT {\k23}IS {\k9}A
+Dialogue: 0,0:01:14.43,0:01:15.96,Default,,0,0,0,,{\k30}ZONE {\k12}OF {\k67}QUIET {\k42}CARVED
+Dialogue: 0,0:01:15.96,0:01:17.66,Default,,0,0,0,,{\k15}OUT {\k12}OF {\k141}CHAOS.
+Dialogue: 0,0:01:17.66,0:01:18.99,Default,,0,0,0,,{\k25}YOUR {\k40}MUSIC {\k37}PLAYS {\k30}THROUGH
+Dialogue: 0,0:01:18.99,0:01:20.83,Default,,0,0,0,,{\k84}UNTOUCHED {\k26}WHILE {\k12}THE {\k59}BACKGROUND
+Dialogue: 0,0:01:20.83,0:01:22.72,Default,,0,0,0,,{\k40}NOISE {\k84}MATHEMATICALLY {\k46}CEASES {\k17}TO
+Dialogue: 0,0:01:22.72,0:01:23.78,Default,,0,0,0,,{\k105}EXIST.
+Dialogue: 0,0:01:23.78,0:01:25.17,Default,,0,0,0,,{\k23}BUT {\k21}THIS {\k56}SYSTEM {\k37}MUST
+Dialogue: 0,0:01:25.17,0:01:27.31,Default,,0,0,0,,{\k54}OPERATE {\k17}IN {\k141}REALTIME.
+Dialogue: 0,0:01:27.31,0:01:28.72,Default,,0,0,0,,{\k18}THE {\k61}PROCESSING {\k39}DELAY {\k21}FROM
+Dialogue: 0,0:01:28.72,0:01:31.04,Default,,0,0,0,,{\k56}DETECTION {\k18}TO {\k66}ANTINOISE {\k90}GENERATION
+Dialogue: 0,0:01:31.04,0:01:32.48,Default,,0,0,0,,{\k24}IS {\k34}MEASURED {\k15}IN {\k69}FRACTIONS
+Dialogue: 0,0:01:32.48,0:01:34.14,Default,,0,0,0,,{\k15}OF {\k8}A {\k142}MILLISECOND.
+Dialogue: 0,0:01:34.14,0:01:35.61,Default,,0,0,0,,{\k33}ANY {\k77}LATENCY {\k23}AND {\k11}THE
+Dialogue: 0,0:01:35.61,0:01:36.83,Default,,0,0,0,,{\k62}WAVES {\k32}FALL {\k15}OUT {\k11}OF
+Dialogue: 0,0:01:36.83,0:01:38.03,Default,,0,0,0,,{\k120}PHASE.
+Dialogue: 0,0:01:38.03,0:01:40.47,Default,,0,0,0,,{\k18}THE {\k75}CANCELLATION {\k149}FAILS.
+Dialogue: 0,0:01:40.47,0:01:43.00,Default,,0,0,0,,{\k70}SILENCE {\k52}BECOMES {\k129}NOISE.
+Dialogue: 0,0:01:43.00,0:01:44.13,Default,,0,0,0,,{\k22}SO {\k13}THE {\k29}NEXT {\k47}TIME
+Dialogue: 0,0:01:44.13,0:01:45.45,Default,,0,0,0,,{\k20}YOU {\k31}PRESS {\k24}THAT {\k55}BUTTON
+Dialogue: 0,0:01:45.45,0:01:46.56,Default,,0,0,0,,{\k25}AND {\k12}THE {\k44}WORLD {\k27}GOES
+Dialogue: 0,0:01:46.56,0:01:49.27,Default,,0,0,0,,{\k96}QUIET, {\k135}REMEMBER {\k21}YOU'RE {\k17}NOT
+Dialogue: 0,0:01:49.27,0:01:51.06,Default,,0,0,0,,{\k34}HIDING {\k20}FROM {\k97}SOUND, {\k25}YOU'RE
+Dialogue: 0,0:01:51.06,0:01:52.58,Default,,0,0,0,,{\k71}WEAPONIZING {\k46}PHYSICS {\k13}TO {\k19}MAKE
+Dialogue: 0,0:01:52.58,0:01:53.75,Default,,0,0,0,,{\k12}IT {\k104}VANISH.
+Dialogue: 0,0:01:53.75,0:01:55.23,Default,,0,0,0,,{\k23}AND {\k30}THAT {\k69}QUIET {\k24}YOU'RE
+Dialogue: 0,0:01:55.23,0:01:56.34,Default,,0,0,0,,{\k111}HEARING?
+Dialogue: 0,0:01:56.34,0:01:57.29,Default,,0,0,0,,{\k26}IT'S {\k12}THE {\k37}SOUND {\k18}OF
+Dialogue: 0,0:01:57.29,0:01:59.17,Default,,0,0,0,,{\k53}WAVES {\k64}DESTROYING {\k22}EACH {\k47}OTHER
+Dialogue: 0,0:01:59.17,0:02:01.90,Default,,0,0,0,,{\k27}IN {\k56}PERFECT {\k75}MATHEMATICAL {\k112}HARMONY,
+Dialogue: 0,0:02:01.90,0:02:04.22,Default,,0,0,0,,{\k34}WHICH {\k24}IS {\k102}EXACTLY {\k70}HOW

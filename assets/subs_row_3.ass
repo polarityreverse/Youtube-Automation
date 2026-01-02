@@ -1,0 +1,65 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,BorderStyle,Outline,Shadow,Alignment,MarginV
+Style: Default,Calibri,85,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,1,1,4,0,2,280
+Style: CTA,Calibri,95,&H0000FFFF,&H000000FF,&H00000000,&H00000000,1,0,1,4,0,2,960
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.10,0:00:01.52,Default,,0,0,0,,{\k67}WELL, {\k23}HOW {\k12}IS {\k38}SPACE
+Dialogue: 0,0:00:01.52,0:00:03.62,Default,,0,0,0,,{\k31}DUST {\k105}FORMED? {\k39}EVERY {\k33}GRAIN
+Dialogue: 0,0:00:03.62,0:00:04.82,Default,,0,0,0,,{\k12}OF {\k51}COSMIC {\k36}DUST {\k19}YOU
+Dialogue: 0,0:00:04.82,0:00:06.05,Default,,0,0,0,,{\k36}SEE {\k48}FLOATING {\k24}THROUGH {\k14}THE
+Dialogue: 0,0:00:06.05,0:00:07.92,Default,,0,0,0,,{\k60}UNIVERSE {\k31}WAS {\k42}BORN {\k52}INSIDE
+Dialogue: 0,0:00:07.92,0:00:08.75,Default,,0,0,0,,{\k13}THE {\k45}FURNACE {\k10}OF {\k13}A
+Dialogue: 0,0:00:08.75,0:00:10.36,Default,,0,0,0,,{\k52}DYING {\k108}STAR.
+Dialogue: 0,0:00:10.36,0:00:11.98,Default,,0,0,0,,{\k22}IT {\k59}STARTS {\k30}WHEN {\k50}MASSIVE
+Dialogue: 0,0:00:11.98,0:00:13.13,Default,,0,0,0,,{\k61}STARS {\k25}RUN {\k16}OUT {\k11}OF
+Dialogue: 0,0:00:13.13,0:00:14.69,Default,,0,0,0,,{\k59}HYDROGEN {\k96}FUEL.
+Dialogue: 0,0:00:14.69,0:00:16.24,Default,,0,0,0,,{\k26}THEIR {\k39}CORES {\k61}COLLAPSE {\k27}UNDER
+Dialogue: 0,0:00:16.24,0:00:18.67,Default,,0,0,0,,{\k52}IMMENSE {\k88}GRAVITY, {\k58}TRIGGERING {\k44}FUSION
+Dialogue: 0,0:00:18.67,0:00:20.65,Default,,0,0,0,,{\k81}REACTIONS {\k26}THAT {\k51}FORGE {\k39}HEAVY
+Dialogue: 0,0:00:20.65,0:00:23.11,Default,,0,0,0,,{\k52}ELEMENTS {\k25}LIKE {\k89}CARBON, {\k78}SILICON,
+Dialogue: 0,0:00:23.11,0:00:24.62,Default,,0,0,0,,{\k27}AND {\k123}IRON.
+Dialogue: 0,0:00:24.62,0:00:25.91,Default,,0,0,0,,{\k19}WHEN {\k11}THE {\k30}STAR {\k67}EXPLODES
+Dialogue: 0,0:00:25.91,0:00:27.42,Default,,0,0,0,,{\k11}IN {\k9}A {\k108}SUPERNOVA, {\k21}IT
+Dialogue: 0,0:00:27.42,0:00:28.94,Default,,0,0,0,,{\k47}BLASTS {\k22}THESE {\k30}HEAVY {\k52}ELEMENTS
+Dialogue: 0,0:00:28.94,0:00:30.29,Default,,0,0,0,,{\k55}OUTWARD {\k17}AT {\k47}MILLIONS {\k13}OF
+Dialogue: 0,0:00:30.29,0:00:32.26,Default,,0,0,0,,{\k38}MILES {\k20}PER {\k77}HOUR, {\k60}SCATTERING
+Dialogue: 0,0:00:32.26,0:00:33.77,Default,,0,0,0,,{\k24}THEM {\k51}ACROSS {\k62}LIGHTYEARS {\k12}OF
+Dialogue: 0,0:00:33.77,0:00:35.19,Default,,0,0,0,,{\k141}SPACE.
+Dialogue: 0,0:00:35.19,0:00:36.86,Default,,0,0,0,,{\k33}AS {\k21}THIS {\k50}EJECTED {\k61}MATERIAL
+Dialogue: 0,0:00:36.86,0:00:38.29,Default,,0,0,0,,{\k58}COOLS {\k16}IN {\k16}THE {\k52}VACUUM
+Dialogue: 0,0:00:38.29,0:00:40.33,Default,,0,0,0,,{\k13}OF {\k104}SPACE, {\k45}ATOMS {\k40}BEGIN
+Dialogue: 0,0:00:40.33,0:00:41.67,Default,,0,0,0,,{\k14}TO {\k119}CONDENSE.
+Dialogue: 0,0:00:41.67,0:00:43.98,Default,,0,0,0,,{\k63}SILICON {\k39}BONDS {\k23}WITH {\k104}OXYGEN,
+Dialogue: 0,0:00:43.98,0:00:45.77,Default,,0,0,0,,{\k40}CARBON {\k40}CHAINS {\k69}FORM, {\k27}AND
+Dialogue: 0,0:00:45.77,0:00:48.12,Default,,0,0,0,,{\k41}METALS {\k84}SOLIDIFY {\k30}INTO {\k78}MICROSCOPIC
+Dialogue: 0,0:00:48.12,0:00:49.50,Default,,0,0,0,,{\k138}CRYSTALS.
+Dialogue: 0,0:00:49.50,0:00:51.72,Default,,0,0,0,,{\k35}THESE {\k74}INDIVIDUAL {\k55}ATOMS {\k55}CLUSTER
+Dialogue: 0,0:00:51.72,0:00:54.21,Default,,0,0,0,,{\k51}TOGETHER {\k32}THROUGH {\k89}ELECTROSTATIC {\k75}ATTRACTION
+Dialogue: 0,0:00:54.21,0:00:55.23,Default,,0,0,0,,{\k25}AND {\k23}VAN {\k18}DER {\k34}WAALS
+Dialogue: 0,0:00:55.23,0:00:57.43,Default,,0,0,0,,{\k114}FORCES, {\k45}BUILDING {\k38}GRAIN {\k21}BY
+Dialogue: 0,0:00:57.43,0:00:59.42,Default,,0,0,0,,{\k46}GRAIN {\k33}INTO {\k64}PARTICLES {\k53}SMALLER
+Dialogue: 0,0:00:59.42,0:01:01.28,Default,,0,0,0,,{\k16}THAN {\k9}A {\k41}HUMAN {\k118}HAIR.
+Dialogue: 0,0:01:01.28,0:01:03.19,Default,,0,0,0,,{\k39}OVER {\k53}MILLIONS {\k15}OF {\k83}YEARS,
+Dialogue: 0,0:01:03.19,0:01:04.70,Default,,0,0,0,,{\k33}THESE {\k33}DUST {\k44}GRAINS {\k39}DRIFT
+Dialogue: 0,0:01:04.70,0:01:07.26,Default,,0,0,0,,{\k30}THROUGH {\k64}INTERSTELLAR {\k93}CLOUDS, {\k66}COLLIDING
+Dialogue: 0,0:01:07.26,0:01:09.59,Default,,0,0,0,,{\k25}AND {\k70}SOMETIMES {\k45}STICKING {\k91}TOGETHER,
+Dialogue: 0,0:01:09.59,0:01:11.10,Default,,0,0,0,,{\k41}FORMING {\k18}THE {\k27}RAW {\k62}MATERIAL
+Dialogue: 0,0:01:11.10,0:01:12.79,Default,,0,0,0,,{\k25}FOR {\k48}FUTURE {\k68}PLANETS {\k26}AND
+Dialogue: 0,0:01:12.79,0:01:14.01,Default,,0,0,0,,{\k121}STARS.
+Dialogue: 0,0:01:14.01,0:01:15.00,Default,,0,0,0,,{\k26}SO {\k24}THAT {\k32}SPECK {\k15}OF
+Dialogue: 0,0:01:15.00,0:01:17.87,Default,,0,0,0,,{\k84}DUST? {\k32}IT'S {\k54}LITERALLY {\k114}STARDUST,
+Dialogue: 0,0:01:17.87,0:01:19.66,Default,,0,0,0,,{\k57}FORGED {\k16}IN {\k53}NUCLEAR {\k51}FIRE
+Dialogue: 0,0:01:19.66,0:01:21.13,Default,,0,0,0,,{\k30}AND {\k62}SCATTERED {\k42}ACROSS {\k11}THE
+Dialogue: 0,0:01:21.13,0:01:22.40,Default,,0,0,0,,{\k126}COSMOS.
+Dialogue: 0,0:01:22.40,0:01:23.17,Default,,0,0,0,,{\k25}WHAT {\k13}DO {\k15}YOU {\k23}WANT
+Dialogue: 0,0:01:23.17,0:01:24.80,Default,,0,0,0,,{\k11}TO {\k22}SEE {\k92}NEXT? {\k36}DROP
+Dialogue: 0,0:01:24.80,0:01:25.56,Default,,0,0,0,,{\k18}YOUR {\k35}IDEA {\k10}IN {\k11}THE
+Dialogue: 0,0:01:25.56,0:01:26.47,Default,,0,0,0,,{\k90}COMMENTS
+Dialogue: 0,0:01:26.47,0:01:28.97,CTA,,0,0,0,,COMMENT 'SPACE' FOR MORE!

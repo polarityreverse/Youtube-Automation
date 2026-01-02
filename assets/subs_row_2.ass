@@ -1,0 +1,70 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,BorderStyle,Outline,Shadow,Alignment,MarginV
+Style: Default,Calibri,85,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,1,1,4,0,2,280
+Style: CTA,Calibri,95,&H0000FFFF,&H000000FF,&H00000000,&H00000000,1,0,1,4,0,2,960
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.10,0:00:01.47,Default,,0,0,0,,{\k66}WELL, {\k19}WHAT {\k18}WOULD {\k32}HAPPEN
+Dialogue: 0,0:00:01.47,0:00:02.81,Default,,0,0,0,,{\k14}IF {\k13}THE {\k33}SUN {\k72}DISAPPEARED
+Dialogue: 0,0:00:02.81,0:00:04.93,Default,,0,0,0,,{\k21}FOR {\k26}ONE {\k131}SECOND? {\k32}MOST
+Dialogue: 0,0:00:04.93,0:00:06.24,Default,,0,0,0,,{\k31}PEOPLE {\k25}THINK {\k26}WE'D {\k46}FREEZE
+Dialogue: 0,0:00:06.24,0:00:08.01,Default,,0,0,0,,{\k100}INSTANTLY, {\k19}BUT {\k11}THE {\k45}PHYSICS
+Dialogue: 0,0:00:08.01,0:00:09.40,Default,,0,0,0,,{\k41}TELLS {\k16}A {\k30}MUCH {\k51}STRANGER
+Dialogue: 0,0:00:09.40,0:00:10.83,Default,,0,0,0,,{\k142}STORY.
+Dialogue: 0,0:00:10.83,0:00:12.85,Default,,0,0,0,,{\k20}THE {\k38}MOMENT {\k32}SUN {\k95}VANISHES,
+Dialogue: 0,0:00:12.85,0:00:14.90,Default,,0,0,0,,{\k48}EARTH {\k55}PLUNGES {\k33}INTO {\k66}ABSOLUTE
+Dialogue: 0,0:00:14.90,0:00:16.10,Default,,0,0,0,,{\k120}DARKNESS.
+Dialogue: 0,0:00:16.10,0:00:17.74,Default,,0,0,0,,{\k22}BUT {\k26}HERE'S {\k11}THE {\k103}TWIST
+Dialogue: 0,0:00:17.74,0:00:18.77,Default,,0,0,0,,{\k17}WE {\k35}WOULDN'T {\k30}FEEL {\k19}IT
+Dialogue: 0,0:00:18.77,0:00:20.68,Default,,0,0,0,,{\k190}IMMEDIATELY.
+Dialogue: 0,0:00:20.68,0:00:22.20,Default,,0,0,0,,{\k35}LIGHT {\k46}TAKES {\k29}EIGHT {\k40}MINUTES
+Dialogue: 0,0:00:22.20,0:00:23.31,Default,,0,0,0,,{\k18}AND {\k37}TWENTY {\k41}SECONDS {\k13}TO
+Dialogue: 0,0:00:23.31,0:00:24.38,Default,,0,0,0,,{\k41}TRAVEL {\k19}FROM {\k13}THE {\k31}SUN
+Dialogue: 0,0:00:24.38,0:00:26.34,Default,,0,0,0,,{\k16}TO {\k180}EARTH.
+Dialogue: 0,0:00:26.34,0:00:27.59,Default,,0,0,0,,{\k35}DURING {\k21}THAT {\k26}ONE {\k39}SECOND
+Dialogue: 0,0:00:27.59,0:00:29.28,Default,,0,0,0,,{\k11}OF {\k103}DISAPPEARANCE, {\k17}THE {\k37}LAST
+Dialogue: 0,0:00:29.28,0:00:30.34,Default,,0,0,0,,{\k27}RAYS {\k11}OF {\k51}SUNLIGHT {\k14}ARE
+Dialogue: 0,0:00:30.34,0:00:31.62,Default,,0,0,0,,{\k30}STILL {\k39}RACING {\k41}TOWARD {\k17}US
+Dialogue: 0,0:00:31.62,0:00:33.66,Default,,0,0,0,,{\k25}THROUGH {\k10}THE {\k167}VACUUM.
+Dialogue: 0,0:00:33.66,0:00:36.30,Default,,0,0,0,,{\k34}EVEN {\k136}STRANGER? {\k44}EARTH'S {\k48}ORBIT
+Dialogue: 0,0:00:36.30,0:00:38.34,Default,,0,0,0,,{\k38}WOULDN'T {\k35}CHANGE {\k128}EITHER.
+Dialogue: 0,0:00:38.34,0:00:39.83,Default,,0,0,0,,{\k53}GRAVITY {\k34}ALSO {\k48}TRAVELS {\k12}AT
+Dialogue: 0,0:00:39.83,0:00:41.30,Default,,0,0,0,,{\k26}LIGHT {\k76}SPEED, {\k19}SO {\k23}WE'D
+Dialogue: 0,0:00:41.30,0:00:42.36,Default,,0,0,0,,{\k23}KEEP {\k34}MOVING {\k32}ALONG {\k16}OUR
+Dialogue: 0,0:00:42.36,0:00:44.78,Default,,0,0,0,,{\k37}NORMAL {\k80}PATH, {\k68}COMPLETELY {\k55}UNAWARE
+Dialogue: 0,0:00:44.78,0:00:45.89,Default,,0,0,0,,{\k16}THE {\k40}SUN {\k23}HAD {\k31}EVER
+Dialogue: 0,0:00:45.89,0:00:47.66,Default,,0,0,0,,{\k176}VANISHED.
+Dialogue: 0,0:00:47.66,0:00:49.28,Default,,0,0,0,,{\k18}FOR {\k25}THAT {\k40}SINGLE {\k77}SECOND,
+Dialogue: 0,0:00:49.28,0:00:50.58,Default,,0,0,0,,{\k32}EARTH {\k69}EXISTS {\k16}IN {\k11}A
+Dialogue: 0,0:00:50.58,0:00:52.53,Default,,0,0,0,,{\k40}GHOST {\k87}ORBIT, {\k44}GUIDED {\k23}BY
+Dialogue: 0,0:00:52.53,0:00:54.89,Default,,0,0,0,,{\k88}GRAVITATIONAL {\k85}INFORMATION {\k23}THAT {\k38}HASN'T
+Dialogue: 0,0:00:54.89,0:00:55.99,Default,,0,0,0,,{\k27}CAUGHT {\k13}UP {\k14}TO {\k54}REALITY
+Dialogue: 0,0:00:55.99,0:00:57.03,Default,,0,0,0,,{\k103}YET.
+Dialogue: 0,0:00:57.03,0:00:59.17,Default,,0,0,0,,{\k74}THEN, {\k28}ONE {\k35}SECOND {\k75}LATER,
+Dialogue: 0,0:00:59.17,0:01:01.70,Default,,0,0,0,,{\k18}THE {\k51}SUN {\k182}REAPPEARS.
+Dialogue: 0,0:01:01.70,0:01:03.17,Default,,0,0,0,,{\k35}LIGHT {\k37}FLOODS {\k31}BACK {\k42}ACROSS
+Dialogue: 0,0:01:03.17,0:01:04.66,Default,,0,0,0,,{\k11}THE {\k38}SOLAR {\k76}SYSTEM, {\k21}AND
+Dialogue: 0,0:01:04.66,0:01:06.41,Default,,0,0,0,,{\k35}WITHIN {\k30}EIGHT {\k70}MINUTES, {\k38}EARTH
+Dialogue: 0,0:01:06.41,0:01:07.86,Default,,0,0,0,,{\k27}IS {\k49}BATHED {\k17}IN {\k49}SUNLIGHT
+Dialogue: 0,0:01:07.86,0:01:09.24,Default,,0,0,0,,{\k54}AGAIN {\k26}AS {\k17}IF {\k39}NOTHING
+Dialogue: 0,0:01:09.24,0:01:10.47,Default,,0,0,0,,{\k26}EVER {\k96}HAPPENED.
+Dialogue: 0,0:01:10.47,0:01:11.67,Default,,0,0,0,,{\k24}NO {\k95}FREEZING.
+Dialogue: 0,0:01:11.67,0:01:13.34,Default,,0,0,0,,{\k27}NO {\k139}CATASTROPHE.
+Dialogue: 0,0:01:13.34,0:01:14.70,Default,,0,0,0,,{\k37}JUST {\k38}ONE {\k45}SECOND {\k15}OF
+Dialogue: 0,0:01:14.70,0:01:16.24,Default,,0,0,0,,{\k63}DARKNESS {\k23}THAT {\k38}WOULDN'T {\k29}EVEN
+Dialogue: 0,0:01:16.24,0:01:18.05,Default,,0,0,0,,{\k61}REGISTER {\k44}UNTIL {\k38}LONG {\k37}AFTER
+Dialogue: 0,0:01:18.05,0:01:19.57,Default,,0,0,0,,{\k12}IT {\k19}WAS {\k119}OVER.
+Dialogue: 0,0:01:19.57,0:01:21.13,Default,,0,0,0,,{\k23}THE {\k62}UNIVERSE {\k49}RUNS {\k19}ON
+Dialogue: 0,0:01:21.13,0:01:23.41,Default,,0,0,0,,{\k81}DELAY, {\k25}AND {\k85}SOMETIMES {\k34}THAT'S
+Dialogue: 0,0:01:23.41,0:01:25.50,Default,,0,0,0,,{\k24}WHAT {\k37}SAVES {\k147}US.
+Dialogue: 0,0:01:25.50,0:01:26.09,Default,,0,0,0,,{\k22}WHAT {\k8}DO {\k10}YOU {\k18}WANT
+Dialogue: 0,0:01:26.09,0:01:27.50,Default,,0,0,0,,{\k10}TO {\k19}SEE {\k77}NEXT? {\k33}DROP
+Dialogue: 0,0:01:27.50,0:01:28.39,Default,,0,0,0,,{\k18}YOUR {\k45}IDEA {\k14}IN {\k10}THE
+Dialogue: 0,0:01:28.39,0:01:29.26,Default,,0,0,0,,{\k87}COMMENTS
+Dialogue: 0,0:01:29.26,0:01:31.76,CTA,,0,0,0,,COMMENT 'SPACE' FOR MORE!

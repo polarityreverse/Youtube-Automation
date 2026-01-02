@@ -1,0 +1,4 @@
+4K cinematic science documentary style with studio lighting and highly realistic physics. 
+Natural, stable fluid motion with high temporal consistency. No morphing, warping, or abrupt transitions. 
+Focus: {motion_instruction}, expressed as a multi‑stage, smooth camera sequence paired with stable physical behavior. 
+Execution: The scene should evolve naturally over time with realistic material interactions, clean visual clarity, and controlled motion.

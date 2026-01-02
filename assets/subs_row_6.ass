@@ -1,0 +1,68 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,BorderStyle,Outline,Shadow,Alignment,MarginV
+Style: Default,Calibri,85,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,1,1,4,0,2,280
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.10,0:00:01.44,Default,,0,0,0,,{\k46}WELL, {\k27}WHAT {\k42}HAPPENS {\k16}WHEN
+Dialogue: 0,0:00:01.44,0:00:02.84,Default,,0,0,0,,{\k8}A {\k40}STAR {\k69}DIES? {\k21}THE
+Dialogue: 0,0:00:02.84,0:00:04.53,Default,,0,0,0,,{\k39}ANSWER {\k40}DEPENDS {\k69}ENTIRELY {\k18}ON
+Dialogue: 0,0:00:04.53,0:00:05.60,Default,,0,0,0,,{\k24}HOW {\k48}MASSIVE {\k10}IT {\k23}WAS
+Dialogue: 0,0:00:05.60,0:00:06.85,Default,,0,0,0,,{\k11}TO {\k37}BEGIN {\k58}WITH, {\k18}BUT
+Dialogue: 0,0:00:06.85,0:00:08.50,Default,,0,0,0,,{\k15}THE {\k63}PROCESS {\k25}IS {\k60}ALWAYS
+Dialogue: 0,0:00:08.50,0:00:09.66,Default,,0,0,0,,{\k116}SPECTACULAR.
+Dialogue: 0,0:00:09.66,0:00:11.01,Default,,0,0,0,,{\k32}WHEN {\k56}FUSION {\k34}STOPS {\k10}IN
+Dialogue: 0,0:00:11.01,0:00:12.77,Default,,0,0,0,,{\k11}THE {\k65}CORE, {\k65}GRAVITY {\k34}TAKES
+Dialogue: 0,0:00:12.77,0:00:13.48,Default,,0,0,0,,{\k70}OVER.
+Dialogue: 0,0:00:13.48,0:00:15.17,Default,,0,0,0,,{\k18}THE {\k47}STAR'S {\k40}CORE {\k62}COLLAPSES
+Dialogue: 0,0:00:15.17,0:00:17.44,Default,,0,0,0,,{\k47}INWARD {\k29}WITH {\k103}UNIMAGINABLE {\k46}FORCE
+Dialogue: 0,0:00:17.44,0:00:18.58,Default,,0,0,0,,{\k20}WHILE {\k16}THE {\k39}OUTER {\k37}LAYERS
+Dialogue: 0,0:00:18.58,0:00:20.25,Default,,0,0,0,,{\k28}BEGIN {\k20}THEIR {\k44}FINAL {\k73}JOURNEY.
+Dialogue: 0,0:00:20.25,0:00:21.25,Default,,0,0,0,,{\k19}FOR {\k40}STARS {\k19}LIKE {\k19}OUR
+Dialogue: 0,0:00:21.25,0:00:22.65,Default,,0,0,0,,{\k40}SUN, {\k22}THE {\k40}OUTER {\k37}LAYERS
+Dialogue: 0,0:00:22.65,0:00:24.43,Default,,0,0,0,,{\k45}GENTLY {\k28}PUFF {\k60}AWAY, {\k42}FORMING
+Dialogue: 0,0:00:24.43,0:00:26.33,Default,,0,0,0,,{\k17}A {\k78}PLANETARY {\k94}NEBULA.
+Dialogue: 0,0:00:26.33,0:00:28.00,Default,,0,0,0,,{\k19}THE {\k61}EXPOSED {\k45}CORE {\k40}BECOMES
+Dialogue: 0,0:00:28.00,0:00:30.37,Default,,0,0,0,,{\k17}A {\k40}WHITE {\k68}DWARF, {\k84}DIAMONDLIKE
+Dialogue: 0,0:00:30.37,0:00:31.59,Default,,0,0,0,,{\k44}EMBER {\k15}THAT {\k20}WILL {\k41}COOL
+Dialogue: 0,0:00:31.59,0:00:33.35,Default,,0,0,0,,{\k27}FOR {\k67}BILLIONS {\k16}OF {\k64}YEARS.
+Dialogue: 0,0:00:33.35,0:00:34.95,Default,,0,0,0,,{\k30}BUT {\k56}MASSIVE {\k54}STARS {\k17}GO
+Dialogue: 0,0:00:34.95,0:00:36.49,Default,,0,0,0,,{\k20}OUT {\k12}IN {\k13}A {\k106}SUPERNOVA.
+Dialogue: 0,0:00:36.49,0:00:38.24,Default,,0,0,0,,{\k20}THE {\k35}CORE {\k55}COLLAPSE {\k62}REBOUNDS
+Dialogue: 0,0:00:38.24,0:00:40.43,Default,,0,0,0,,{\k77}VIOLENTLY, {\k45}LAUNCHING {\k19}A {\k75}SHOCKWAVE
+Dialogue: 0,0:00:40.43,0:00:41.54,Default,,0,0,0,,{\k20}THAT {\k40}TEARS {\k15}THE {\k34}STAR
+Dialogue: 0,0:00:41.54,0:00:43.55,Default,,0,0,0,,{\k48}APART {\k22}AND {\k60}BRIEFLY {\k69}OUTSHINES
+Dialogue: 0,0:00:43.55,0:00:45.27,Default,,0,0,0,,{\k16}AN {\k59}ENTIRE {\k96}GALAXY.
+Dialogue: 0,0:00:45.27,0:00:46.78,Default,,0,0,0,,{\k34}WHAT'S {\k23}LEFT {\k49}BEHIND {\k42}DEPENDS
+Dialogue: 0,0:00:46.78,0:00:48.19,Default,,0,0,0,,{\k10}ON {\k14}THE {\k48}CORE'S {\k68}MASS.
+Dialogue: 0,0:00:48.19,0:00:49.52,Default,,0,0,0,,{\k48}BETWEEN {\k31}ONE {\k19}AND {\k32}THREE
+Dialogue: 0,0:00:49.52,0:00:50.78,Default,,0,0,0,,{\k41}SOLAR {\k56}MASSES, {\k13}YOU {\k13}GET
+Dialogue: 0,0:00:50.78,0:00:52.22,Default,,0,0,0,,{\k11}A {\k55}NEUTRON {\k53}STAR, {\k23}WHERE
+Dialogue: 0,0:00:52.22,0:00:53.44,Default,,0,0,0,,{\k8}A {\k52}TEASPOON {\k13}OF {\k47}MATTER
+Dialogue: 0,0:00:53.44,0:00:55.25,Default,,0,0,0,,{\k31}WEIGHS {\k20}A {\k55}BILLION {\k73}TONS.
+Dialogue: 0,0:00:55.25,0:00:56.09,Default,,0,0,0,,{\k22}AND {\k12}IF {\k15}THE {\k33}CORE
+Dialogue: 0,0:00:56.09,0:00:58.19,Default,,0,0,0,,{\k52}EXCEEDS {\k38}THREE {\k40}SOLAR {\k78}MASSES,
+Dialogue: 0,0:00:58.19,0:00:59.71,Default,,0,0,0,,{\k29}NOT {\k34}EVEN {\k51}NEUTRON {\k37}PRESSURE
+Dialogue: 0,0:00:59.71,0:01:01.24,Default,,0,0,0,,{\k19}CAN {\k31}STOP {\k10}THE {\k91}COLLAPSE.
+Dialogue: 0,0:01:01.24,0:01:03.11,Default,,0,0,0,,{\k56}GRAVITY {\k38}WINS {\k73}COMPLETELY, {\k18}AND
+Dialogue: 0,0:01:03.11,0:01:04.67,Default,,0,0,0,,{\k15}A {\k41}BLACK {\k35}HOLE {\k62}FORMS,
+Dialogue: 0,0:01:04.67,0:01:06.78,Default,,0,0,0,,{\k54}WARPING {\k63}SPACETIME {\k62}ITSELF {\k30}INTO
+Dialogue: 0,0:01:06.78,0:01:07.81,Default,,0,0,0,,{\k11}A {\k37}POINT {\k24}OF {\k30}NO
+Dialogue: 0,0:01:07.81,0:01:08.58,Default,,0,0,0,,{\k76}RETURN.
+Dialogue: 0,0:01:08.58,0:01:10.56,Default,,0,0,0,,{\k44}THESE {\k53}VIOLENT {\k58}DEATHS {\k42}SEED
+Dialogue: 0,0:01:10.56,0:01:11.89,Default,,0,0,0,,{\k18}THE {\k52}UNIVERSE {\k23}WITH {\k38}HEAVY
+Dialogue: 0,0:01:11.89,0:01:13.58,Default,,0,0,0,,{\k71}ELEMENTS, {\k20}THE {\k42}BUILDING {\k33}BLOCKS
+Dialogue: 0,0:01:13.58,0:01:15.09,Default,,0,0,0,,{\k13}OF {\k58}PLANETS {\k31}AND {\k47}LIFE
+Dialogue: 0,0:01:15.09,0:01:16.09,Default,,0,0,0,,{\k99}ITSELF.
+Dialogue: 0,0:01:16.09,0:01:17.42,Default,,0,0,0,,{\k53}EVERY {\k42}ATOM {\k13}IN {\k22}YOUR
+Dialogue: 0,0:01:17.42,0:01:18.82,Default,,0,0,0,,{\k38}BODY {\k28}WAS {\k58}FORGED {\k15}IN
+Dialogue: 0,0:01:18.82,0:01:20.52,Default,,0,0,0,,{\k20}A {\k56}DYING {\k91}STAR.
+Dialogue: 0,0:01:20.52,0:01:21.15,Default,,0,0,0,,{\k24}WHAT {\k10}DO {\k12}YOU {\k16}WANT
+Dialogue: 0,0:01:21.15,0:01:22.58,Default,,0,0,0,,{\k9}TO {\k25}SEE {\k73}NEXT? {\k34}DROP
+Dialogue: 0,0:01:22.58,0:01:23.30,Default,,0,0,0,,{\k17}YOUR {\k31}IDEA {\k11}IN {\k11}THE
+Dialogue: 0,0:01:23.30,0:01:24.15,Default,,0,0,0,,{\k84}COMMENTS

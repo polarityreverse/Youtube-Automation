@@ -1,0 +1,77 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,BorderStyle,Outline,Shadow,Alignment,MarginV
+Style: Default,Calibri,85,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,1,1,4,0,2,280
+Style: CTA,Calibri,90,&H0000FFFF,&H000000FF,&H00000000,&H00000000,1,0,1,4,0,2,960
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.10,0:00:01.33,Default,,0,0,0,,{\k68}WELL, {\k24}WHAT {\k18}IS {\k11}THE
+Dialogue: 0,0:00:01.33,0:00:03.03,Default,,0,0,0,,{\k30}DARK {\k88}WEB? {\k26}IT'S {\k24}NOT
+Dialogue: 0,0:00:03.03,0:00:05.40,Default,,0,0,0,,{\k27}SOME {\k57}MYTHICAL {\k41}HACKER {\k109}DIMENSION.
+Dialogue: 0,0:00:05.40,0:00:06.54,Default,,0,0,0,,{\k26}IT'S {\k11}A {\k38}REAL, {\k37}HIDDEN
+Dialogue: 0,0:00:06.54,0:00:07.78,Default,,0,0,0,,{\k37}LAYER {\k12}OF {\k13}THE {\k60}INTERNET
+Dialogue: 0,0:00:07.78,0:00:08.97,Default,,0,0,0,,{\k21}THAT {\k15}YOU {\k31}CAN'T {\k51}ACCESS
+Dialogue: 0,0:00:08.97,0:00:10.73,Default,,0,0,0,,{\k20}WITH {\k35}GOOGLE {\k12}OR {\k105}CHROME.
+Dialogue: 0,0:00:10.73,0:00:11.95,Default,,0,0,0,,{\k18}THE {\k44}SURFACE {\k34}WEB {\k24}IS
+Dialogue: 0,0:00:11.95,0:00:13.29,Default,,0,0,0,,{\k33}JUST {\k38}FIVE {\k50}PERCENT {\k12}OF
+Dialogue: 0,0:00:13.29,0:00:14.71,Default,,0,0,0,,{\k14}THE {\k127}INTERNET.
+Dialogue: 0,0:00:14.71,0:00:16.02,Default,,0,0,0,,{\k38}BELOW {\k40}THAT {\k34}SITS {\k17}THE
+Dialogue: 0,0:00:16.02,0:00:18.39,Default,,0,0,0,,{\k31}DEEP {\k78}WEB, {\k45}PRIVATE {\k81}DATABASES
+Dialogue: 0,0:00:18.39,0:00:20.83,Default,,0,0,0,,{\k29}AND {\k112}PASSWORDPROTECTED {\k102}SITES.
+Dialogue: 0,0:00:20.83,0:00:22.33,Default,,0,0,0,,{\k26}BUT {\k41}DEEPER {\k53}STILL {\k27}IS
+Dialogue: 0,0:00:22.33,0:00:24.32,Default,,0,0,0,,{\k12}THE {\k31}DARK {\k155}WEB.
+Dialogue: 0,0:00:24.32,0:00:25.61,Default,,0,0,0,,{\k22}TO {\k62}ENTER, {\k17}YOU {\k26}NEED
+Dialogue: 0,0:00:25.61,0:00:28.13,Default,,0,0,0,,{\k82}TOR, {\k23}THE {\k41}ONION {\k104}ROUTER.
+Dialogue: 0,0:00:28.13,0:00:29.18,Default,,0,0,0,,{\k19}IT {\k32}WRAPS {\k17}YOUR {\k34}DATA
+Dialogue: 0,0:00:29.18,0:00:30.86,Default,,0,0,0,,{\k20}IN {\k46}LAYERS {\k11}OF {\k89}ENCRYPTION,
+Dialogue: 0,0:00:30.86,0:00:32.35,Default,,0,0,0,,{\k23}LIKE {\k10}AN {\k88}ONION, {\k26}THEN
+Dialogue: 0,0:00:32.35,0:00:33.67,Default,,0,0,0,,{\k45}BOUNCES {\k11}IT {\k28}THROUGH {\k46}RANDOM
+Dialogue: 0,0:00:33.67,0:00:35.09,Default,,0,0,0,,{\k38}RELAY {\k42}NODES {\k48}ACROSS {\k11}THE
+Dialogue: 0,0:00:35.09,0:00:36.12,Default,,0,0,0,,{\k103}GLOBE.
+Dialogue: 0,0:00:36.12,0:00:37.57,Default,,0,0,0,,{\k32}EACH {\k39}NODE {\k35}ONLY {\k37}KNOWS
+Dialogue: 0,0:00:37.57,0:00:38.93,Default,,0,0,0,,{\k13}THE {\k53}PREVIOUS {\k41}HOP {\k26}AND
+Dialogue: 0,0:00:38.93,0:00:40.08,Default,,0,0,0,,{\k12}THE {\k102}NEXT.
+Dialogue: 0,0:00:40.08,0:00:41.67,Default,,0,0,0,,{\k28}NO {\k40}SINGLE {\k52}POINT {\k37}SEES
+Dialogue: 0,0:00:41.67,0:00:43.12,Default,,0,0,0,,{\k12}THE {\k27}WHOLE {\k104}PATH.
+Dialogue: 0,0:00:43.12,0:00:44.99,Default,,0,0,0,,{\k25}YOUR {\k63}IDENTITY {\k68}VANISHES {\k28}INTO
+Dialogue: 0,0:00:44.99,0:00:46.34,Default,,0,0,0,,{\k12}THE {\k121}NETWORK.
+Dialogue: 0,0:00:46.34,0:00:48.22,Default,,0,0,0,,{\k63}WEBSITES {\k27}HERE {\k32}USE {\k63}DOTONION
+Dialogue: 0,0:00:48.22,0:00:50.25,Default,,0,0,0,,{\k94}ADDRESSES, {\k51}STRINGS {\k15}OF {\k42}RANDOM
+Dialogue: 0,0:00:50.25,0:00:52.24,Default,,0,0,0,,{\k72}CHARACTERS {\k71}IMPOSSIBLE {\k13}TO {\k41}FIND
+Dialogue: 0,0:00:52.24,0:00:54.45,Default,,0,0,0,,{\k40}WITHOUT {\k18}THE {\k53}EXACT {\k107}LINK.
+Dialogue: 0,0:00:54.45,0:00:56.16,Default,,0,0,0,,{\k28}NO {\k33}SEARCH {\k107}ENGINES.
+Dialogue: 0,0:00:56.16,0:00:58.32,Default,,0,0,0,,{\k26}NO {\k47}TRACKING {\k141}COOKIES.
+Dialogue: 0,0:00:58.32,0:00:59.63,Default,,0,0,0,,{\k20}THE {\k33}DARK {\k30}WEB {\k46}HOSTS
+Dialogue: 0,0:00:59.63,0:01:02.65,Default,,0,0,0,,{\k70}WHISTLEBLOWER {\k98}PLATFORMS, {\k59}PRIVACY {\k73}TOOLS,
+Dialogue: 0,0:01:02.65,0:01:05.05,Default,,0,0,0,,{\k41}AND {\k77}UNCENSORED {\k120}FORUMS.
+Dialogue: 0,0:01:05.05,0:01:05.98,Default,,0,0,0,,{\k20}BUT {\k16}IT'S {\k32}ALSO {\k23}HOME
+Dialogue: 0,0:01:05.98,0:01:07.37,Default,,0,0,0,,{\k18}TO {\k39}BLACK {\k52}MARKETS {\k29}AND
+Dialogue: 0,0:01:07.37,0:01:09.58,Default,,0,0,0,,{\k49}ILLEGAL {\k88}TRADE, {\k63}OPERATING {\k18}IN
+Dialogue: 0,0:01:09.58,0:01:12.08,Default,,0,0,0,,{\k48}DIGITAL {\k200}SHADOWS.
+Dialogue: 0,0:01:12.08,0:01:13.41,Default,,0,0,0,,{\k59}ACCESSING {\k10}THE {\k28}DARK {\k34}WEB
+Dialogue: 0,0:01:13.41,0:01:14.93,Default,,0,0,0,,{\k37}ISN'T {\k77}ILLEGAL, {\k18}BUT {\k18}WHAT
+Dialogue: 0,0:01:14.93,0:01:15.66,Default,,0,0,0,,{\k14}YOU {\k15}DO {\k19}THERE {\k24}MIGHT
+Dialogue: 0,0:01:15.66,0:01:16.61,Default,,0,0,0,,{\k95}BE.
+Dialogue: 0,0:01:16.61,0:01:18.38,Default,,0,0,0,,{\k25}LAW {\k58}ENFORCEMENT {\k52}MONITORS {\k40}EXIT
+Dialogue: 0,0:01:18.38,0:01:20.14,Default,,0,0,0,,{\k40}NODES {\k24}AND {\k60}EXPLOITS {\k51}SOFTWARE
+Dialogue: 0,0:01:20.14,0:01:23.17,Default,,0,0,0,,{\k82}VULNERABILITIES {\k19}TO {\k60}UNMASK {\k140}USERS.
+Dialogue: 0,0:01:23.17,0:01:24.30,Default,,0,0,0,,{\k17}THE {\k31}DARK {\k38}WEB {\k25}IS
+Dialogue: 0,0:01:24.30,0:01:25.91,Default,,0,0,0,,{\k9}A {\k88}TOOL, {\k45}NEUTRAL {\k18}BY
+Dialogue: 0,0:01:25.91,0:01:27.16,Default,,0,0,0,,{\k124}DESIGN.
+Dialogue: 0,0:01:27.16,0:01:28.84,Default,,0,0,0,,{\k19}IT {\k48}PROTECTS {\k69}JOURNALISTS {\k30}UNDER
+Dialogue: 0,0:01:28.84,0:01:30.87,Default,,0,0,0,,{\k52}OPPRESSIVE {\k67}REGIMES {\k28}AND {\k54}SHIELDS
+Dialogue: 0,0:01:30.87,0:01:32.24,Default,,0,0,0,,{\k137}ACTIVISTS.
+Dialogue: 0,0:01:32.24,0:01:33.58,Default,,0,0,0,,{\k24}BUT {\k24}LIKE {\k22}ANY {\k62}TOOL,
+Dialogue: 0,0:01:33.58,0:01:34.92,Default,,0,0,0,,{\k18}IT {\k51}REFLECTS {\k16}THE {\k48}INTENT
+Dialogue: 0,0:01:34.92,0:01:35.76,Default,,0,0,0,,{\k13}OF {\k26}THOSE {\k18}WHO {\k24}USE
+Dialogue: 0,0:01:35.76,0:01:37.19,Default,,0,0,0,,{\k142}IT.
+Dialogue: 0,0:01:37.19,0:01:37.79,Default,,0,0,0,,{\k20}WHAT {\k8}DO {\k11}YOU {\k19}WANT
+Dialogue: 0,0:01:37.79,0:01:39.30,Default,,0,0,0,,{\k11}TO {\k22}SEE {\k83}NEXT? {\k33}DROP
+Dialogue: 0,0:01:39.30,0:01:40.10,Default,,0,0,0,,{\k18}YOUR {\k40}IDEA {\k10}IN {\k10}THE
+Dialogue: 0,0:01:40.10,0:01:40.96,Default,,0,0,0,,{\k85}COMMENTS
+Dialogue: 0,0:01:40.96,0:01:42.96,CTA,,0,0,0,,COMMENT 'SPACE' FOR MORE!

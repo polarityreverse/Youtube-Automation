@@ -1,0 +1,69 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,BorderStyle,Outline,Shadow,Alignment,MarginV
+Style: Default,Calibri,85,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,1,1,4,0,2,280
+Style: CTA,Calibri,105,&H0000FFFF,&H000000FF,&H00000000,&H00000000,1,0,1,4,0,2,960
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.10,0:00:01.20,Default,,0,0,0,,{\k19}YOUR {\k26}HEART {\k23}JUST {\k39}STOPPED
+Dialogue: 0,0:00:01.20,0:00:02.67,Default,,0,0,0,,{\k29}GETTING {\k118}OXYGEN.
+Dialogue: 0,0:00:02.67,0:00:03.69,Default,,0,0,0,,{\k19}YOU {\k18}HAVE {\k31}ABOUT {\k32}FOUR
+Dialogue: 0,0:00:03.69,0:00:05.29,Default,,0,0,0,,{\k34}MINUTES {\k36}BEFORE {\k46}PERMANENT {\k42}DAMAGE
+Dialogue: 0,0:00:05.29,0:00:06.34,Default,,0,0,0,,{\k104}BEGINS.
+Dialogue: 0,0:00:06.34,0:00:07.72,Default,,0,0,0,,{\k30}HERE'S {\k24}WHAT'S {\k47}HAPPENING {\k36}INSIDE
+Dialogue: 0,0:00:07.72,0:00:09.25,Default,,0,0,0,,{\k17}YOUR {\k38}CHEST {\k25}RIGHT {\k72}NOW.
+Dialogue: 0,0:00:09.25,0:00:10.63,Default,,0,0,0,,{\k20}A {\k23}HEART {\k44}ATTACK {\k49}STARTS
+Dialogue: 0,0:00:10.63,0:00:12.09,Default,,0,0,0,,{\k18}WHEN {\k8}A {\k73}CHOLESTEROL {\k45}PLAQUE
+Dialogue: 0,0:00:12.09,0:00:14.08,Default,,0,0,0,,{\k58}INSIDE {\k17}YOUR {\k61}CORONARY {\k62}ARTERY
+Dialogue: 0,0:00:14.08,0:00:15.86,Default,,0,0,0,,{\k55}SUDDENLY {\k121}RUPTURES.
+Dialogue: 0,0:00:15.86,0:00:17.04,Default,,0,0,0,,{\k25}YOUR {\k37}BODY {\k33}TREATS {\k22}THIS
+Dialogue: 0,0:00:17.04,0:00:18.51,Default,,0,0,0,,{\k42}RUPTURE {\k19}LIKE {\k9}AN {\k74}EMERGENCY
+Dialogue: 0,0:00:18.51,0:00:20.40,Default,,0,0,0,,{\k50}WOUND {\k32}AND {\k40}SENDS {\k65}PLATELETS
+Dialogue: 0,0:00:20.40,0:00:21.52,Default,,0,0,0,,{\k15}TO {\k34}SEAL {\k62}IT.
+Dialogue: 0,0:00:21.52,0:00:22.79,Default,,0,0,0,,{\k23}BUT {\k56}INSIDE {\k11}A {\k34}NARROW
+Dialogue: 0,0:00:22.79,0:00:24.74,Default,,0,0,0,,{\k81}ARTERY, {\k27}THIS {\k47}CLOT {\k38}BECOMES
+Dialogue: 0,0:00:24.74,0:00:26.81,Default,,0,0,0,,{\k8}A {\k56}COMPLETE {\k108}BLOCKAGE, {\k33}CUTTING
+Dialogue: 0,0:00:26.81,0:00:27.80,Default,,0,0,0,,{\k19}OFF {\k30}BLOOD {\k34}FLOW {\k14}TO
+Dialogue: 0,0:00:27.80,0:00:29.41,Default,,0,0,0,,{\k18}YOUR {\k22}HEART {\k120}MUSCLE.
+Dialogue: 0,0:00:29.41,0:00:31.52,Default,,0,0,0,,{\k45}WITHIN {\k91}SECONDS, {\k59}MILLIONS {\k15}OF
+Dialogue: 0,0:00:31.52,0:00:33.49,Default,,0,0,0,,{\k59}CARDIAC {\k38}MUSCLE {\k53}CELLS {\k46}BEGIN
+Dialogue: 0,0:00:33.49,0:00:34.85,Default,,0,0,0,,{\k135}SUFFOCATING.
+Dialogue: 0,0:00:34.85,0:00:37.22,Default,,0,0,0,,{\k22}THEIR {\k110}MITOCHONDRIA, {\k16}THE {\k88}POWERHOUSES
+Dialogue: 0,0:00:37.22,0:00:38.57,Default,,0,0,0,,{\k10}OF {\k12}THE {\k71}CELL, {\k39}START
+Dialogue: 0,0:00:38.57,0:00:40.08,Default,,0,0,0,,{\k41}FAILING {\k109}FIRST.
+Dialogue: 0,0:00:40.08,0:00:41.99,Default,,0,0,0,,{\k42}WITHOUT {\k92}OXYGEN, {\k24}THEY {\k31}CAN'T
+Dialogue: 0,0:00:41.99,0:00:44.04,Default,,0,0,0,,{\k46}PRODUCE {\k96}ATP, {\k19}THE {\k41}ENERGY
+Dialogue: 0,0:00:44.04,0:00:45.81,Default,,0,0,0,,{\k60}MOLECULE {\k18}THAT {\k54}POWERS {\k44}EVERY
+Dialogue: 0,0:00:45.81,0:00:46.79,Default,,0,0,0,,{\k97}HEARTBEAT.
+Dialogue: 0,0:00:46.79,0:00:47.86,Default,,0,0,0,,{\k18}THE {\k37}CELLS {\k33}BEGIN {\k17}TO
+Dialogue: 0,0:00:47.86,0:00:49.24,Default,,0,0,0,,{\k59}SWELL {\k12}AS {\k23}THEIR {\k42}ION
+Dialogue: 0,0:00:49.24,0:00:51.32,Default,,0,0,0,,{\k41}PUMPS {\k32}SHUT {\k84}DOWN, {\k48}UNABLE
+Dialogue: 0,0:00:51.32,0:00:52.78,Default,,0,0,0,,{\k12}TO {\k64}MAINTAIN {\k18}THE {\k50}DELICATE
+Dialogue: 0,0:00:52.78,0:00:54.18,Default,,0,0,0,,{\k45}BALANCE {\k15}OF {\k62}SODIUM {\k17}AND
+Dialogue: 0,0:00:54.18,0:00:55.88,Default,,0,0,0,,{\k169}POTASSIUM.
+Dialogue: 0,0:00:55.88,0:00:57.64,Default,,0,0,0,,{\k38}AFTER {\k32}ABOUT {\k38}THIRTY {\k67}MINUTES,
+Dialogue: 0,0:00:57.64,0:00:59.84,Default,,0,0,0,,{\k19}THE {\k45}DAMAGE {\k45}BECOMES {\k109}IRREVERSIBLE
+Dialogue: 0,0:00:59.84,0:01:00.99,Default,,0,0,0,,{\k18}AND {\k12}THE {\k39}MUSCLE {\k44}CELLS
+Dialogue: 0,0:01:00.99,0:01:02.73,Default,,0,0,0,,{\k39}BEGIN {\k15}TO {\k119}DIE.
+Dialogue: 0,0:01:02.73,0:01:04.08,Default,,0,0,0,,{\k32}THIS {\k27}DEAD {\k49}TISSUE {\k24}WILL
+Dialogue: 0,0:01:04.08,0:01:05.67,Default,,0,0,0,,{\k67}EVENTUALLY {\k20}BE {\k49}REPLACED {\k20}BY
+Dialogue: 0,0:01:05.67,0:01:07.36,Default,,0,0,0,,{\k46}SCAR {\k53}TISSUE {\k27}THAT {\k41}CAN'T
+Dialogue: 0,0:01:07.36,0:01:09.87,Default,,0,0,0,,{\k110}CONTRACT, {\k67}PERMANENTLY {\k51}WEAKENING {\k22}YOUR
+Dialogue: 0,0:01:09.87,0:01:11.73,Default,,0,0,0,,{\k185}HEART.
+Dialogue: 0,0:01:11.73,0:01:13.26,Default,,0,0,0,,{\k41}EVERY {\k34}MINUTE {\k47}COUNTS {\k29}DURING
+Dialogue: 0,0:01:13.26,0:01:14.78,Default,,0,0,0,,{\k9}A {\k23}HEART {\k80}ATTACK {\k39}BECAUSE
+Dialogue: 0,0:01:14.78,0:01:16.19,Default,,0,0,0,,{\k44}EVERY {\k33}MINUTE {\k33}MEANS {\k29}MORE
+Dialogue: 0,0:01:16.19,0:01:18.25,Default,,0,0,0,,{\k39}MUSCLE {\k80}DEATH, {\k41}AND {\k45}TIME
+Dialogue: 0,0:01:18.25,0:01:19.63,Default,,0,0,0,,{\k16}IS {\k18}THE {\k59}DIFFERENCE {\k44}BETWEEN
+Dialogue: 0,0:01:19.63,0:01:21.75,Default,,0,0,0,,{\k91}RECOVERY {\k27}AND {\k56}PERMANENT {\k34}HEART
+Dialogue: 0,0:01:21.75,0:01:22.81,Default,,0,0,0,,{\k106}FAILURE.
+Dialogue: 0,0:01:22.81,0:01:23.41,Default,,0,0,0,,{\k20}WHAT {\k9}DO {\k12}YOU {\k16}WANT
+Dialogue: 0,0:01:23.41,0:01:24.45,Default,,0,0,0,,{\k9}TO {\k20}SEE {\k74}NEXT?
+Dialogue: 0,0:01:24.45,0:01:25.75,Default,,0,0,0,,{\k36}DROP {\k17}YOUR {\k58}IDEA {\k18}IN
+Dialogue: 0,0:01:25.75,0:01:26.89,Default,,0,0,0,,{\k12}THE {\k101}COMMENTS
+Dialogue: 0,0:01:26.89,0:01:28.39,CTA,,0,0,0,,LIKE & FOLLOW FOR MORE!

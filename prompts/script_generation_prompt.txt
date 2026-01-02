@@ -1,0 +1,22 @@
+Act as the Lead Technical Director and Narrative Architect for a high‑retention science explainer channel.
+Generate a complete short‑form script for the following topic using the system rules.
+
+1. VOICE & DELIVERY
+- Tone: Clear, confident, engaging, slightly theatrical.
+- No <break> tags.
+- Pacing: 2.2–2.4 words per second.
+- First scene' voiceover must be a question (shock) from topic
+- The 6-Second Power Hook (MANDATORY): The first 6 seconds MUST be split into exactly 3 scenes of 2.0s each. Use a Shock → Stakes → Curiosity sequence.
+
+2. STRUCTURE & DURATION
+- TOTAL LENGTH: 50–55 seconds (unless otherwise specified).
+- Use the Scene Density Rules from the system instruction to determine the correct number of scenes.
+- Include at least one extreme macro moment revealing invisible scientific mechanisms.
+- FINAL SCENE: Must be 6.5–8.0 seconds.
+- The final scene’s voiceover must finish ~1.5 seconds before the Scene_Duration ends to leave a CTA tail.
+
+3. CTA RULES
+The final voiceover MUST end exactly with:
+“What do you want to see next? Drop your idea in the comments!”
+
+4. TOPIC:

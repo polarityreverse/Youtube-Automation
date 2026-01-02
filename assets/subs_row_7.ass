@@ -1,0 +1,75 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,BorderStyle,Outline,Shadow,Alignment,MarginV
+Style: Default,Calibri,85,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,1,1,4,0,2,280
+Style: CTA,Calibri,105,&H0000FFFF,&H000000FF,&H00000000,&H00000000,1,0,1,4,0,2,960
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.08,0:00:01.01,Default,,0,0,0,,{\k29}WHAT {\k21}IF {\k11}A {\k30}TEN
+Dialogue: 0,0:00:01.01,0:00:03.23,Default,,0,0,0,,{\k53}KILOMETER {\k39}WIDE {\k76}ASTEROID {\k52}SLAMMED
+Dialogue: 0,0:00:03.23,0:00:04.89,Default,,0,0,0,,{\k25}INTO {\k30}EARTH {\k27}RIGHT {\k82}NOW?
+Dialogue: 0,0:00:04.89,0:00:06.37,Default,,0,0,0,,{\k23}THE {\k58}IMPACT {\k20}WOULD {\k46}RELEASE
+Dialogue: 0,0:00:06.37,0:00:07.88,Default,,0,0,0,,{\k56}ENERGY {\k31}EQUAL {\k16}TO {\k46}TEN
+Dialogue: 0,0:00:07.88,0:00:09.69,Default,,0,0,0,,{\k56}BILLION {\k61}HIROSHIMA {\k48}BOMBS {\k13}IN
+Dialogue: 0,0:00:09.69,0:00:11.29,Default,,0,0,0,,{\k13}A {\k52}SINGLE {\k92}INSTANT.
+Dialogue: 0,0:00:11.29,0:00:13.07,Default,,0,0,0,,{\k30}AND {\k60}EVERYTHING {\k34}WITHIN {\k53}FIFTEEN
+Dialogue: 0,0:00:13.07,0:00:14.45,Default,,0,0,0,,{\k38}HUNDRED {\k65}KILOMETERS {\k22}WOULD {\k12}BE
+Dialogue: 0,0:00:14.45,0:00:16.50,Default,,0,0,0,,{\k80}OBLITERATED {\k22}IN {\k102}SECONDS.
+Dialogue: 0,0:00:16.50,0:00:18.03,Default,,0,0,0,,{\k23}AT {\k55}IMPACT {\k18}THE {\k55}ASTEROID
+Dialogue: 0,0:00:18.03,0:00:19.46,Default,,0,0,0,,{\k40}PUNCHES {\k10}A {\k50}CRATER {\k41}THIRTY
+Dialogue: 0,0:00:19.46,0:00:21.55,Default,,0,0,0,,{\k63}KILOMETERS {\k58}WIDE {\k31}AND {\k55}TWENTY
+Dialogue: 0,0:00:21.55,0:00:23.21,Default,,0,0,0,,{\k62}KILOMETERS {\k46}DEEP {\k40}INTO {\k16}THE
+Dialogue: 0,0:00:23.21,0:00:24.36,Default,,0,0,0,,{\k36}OCEAN {\k78}FLOOR.
+Dialogue: 0,0:00:24.36,0:00:26.20,Default,,0,0,0,,{\k17}THE {\k46}KINETIC {\k45}ENERGY {\k75}VAPORIZES
+Dialogue: 0,0:00:26.20,0:00:27.67,Default,,0,0,0,,{\k74}TRILLIONS {\k13}OF {\k39}TONS {\k18}OF
+Dialogue: 0,0:00:27.67,0:00:29.32,Default,,0,0,0,,{\k33}ROCK {\k15}AND {\k51}WATER {\k65}INSTANTLY
+Dialogue: 0,0:00:29.32,0:00:31.07,Default,,0,0,0,,{\k44}CREATING {\k13}A {\k82}FIREBALL {\k34}THAT
+Dialogue: 0,0:00:31.07,0:00:32.97,Default,,0,0,0,,{\k49}REACHES {\k17}THE {\k123}STRATOSPHERE.
+Dialogue: 0,0:00:32.97,0:00:35.03,Default,,0,0,0,,{\k19}A {\k68}SUPERSONIC {\k63}SHOCKWAVE {\k53}FLATTENS
+Dialogue: 0,0:00:35.03,0:00:36.40,Default,,0,0,0,,{\k42}FORESTS {\k17}AND {\k41}CITIES {\k34}ACROSS
+Dialogue: 0,0:00:36.40,0:00:38.17,Default,,0,0,0,,{\k52}ENTIRE {\k82}CONTINENTS {\k26}WHILE {\k16}THE
+Dialogue: 0,0:00:38.17,0:00:40.60,Default,,0,0,0,,{\k39}HEAT {\k60}IGNITES {\k78}WILDFIRES {\k63}THOUSANDS
+Dialogue: 0,0:00:40.60,0:00:42.19,Default,,0,0,0,,{\k12}OF {\k59}KILOMETERS {\k87}AWAY.
+Dialogue: 0,0:00:42.19,0:00:44.25,Default,,0,0,0,,{\k98}MEGATSUNAMIS {\k29}OVER {\k24}ONE {\k53}KILOMETER
+Dialogue: 0,0:00:44.25,0:00:45.72,Default,,0,0,0,,{\k61}TALL {\k32}RACE {\k38}ACROSS {\k15}THE
+Dialogue: 0,0:00:45.72,0:00:47.04,Default,,0,0,0,,{\k38}OCEAN {\k21}AT {\k31}JET {\k40}SPEED
+Dialogue: 0,0:00:47.04,0:00:49.05,Default,,0,0,0,,{\k56}ERASING {\k46}COASTAL {\k81}CIVILIZATIONS {\k16}IN
+Dialogue: 0,0:00:49.05,0:00:49.70,Default,,0,0,0,,{\k65}MINUTES.
+Dialogue: 0,0:00:49.70,0:00:50.98,Default,,0,0,0,,{\k59}BILLIONS {\k13}OF {\k40}TONS {\k13}OF
+Dialogue: 0,0:00:50.98,0:00:52.51,Default,,0,0,0,,{\k66}VAPORIZED {\k30}ROCK {\k15}AND {\k41}ASH
+Dialogue: 0,0:00:52.51,0:00:54.21,Default,,0,0,0,,{\k46}SHOOT {\k37}INTO {\k11}THE {\k74}STRATOSPHERE
+Dialogue: 0,0:00:54.21,0:00:55.65,Default,,0,0,0,,{\k39}FORMING {\k15}A {\k52}GLOBAL {\k37}DUST
+Dialogue: 0,0:00:55.65,0:00:56.78,Default,,0,0,0,,{\k37}CLOUD {\k20}THAT {\k38}BLOCKS {\k17}OUT
+Dialogue: 0,0:00:56.78,0:00:57.47,Default,,0,0,0,,{\k12}THE {\k55}SUN.
+Dialogue: 0,0:00:57.47,0:00:59.52,Default,,0,0,0,,{\k44}WITHIN {\k52}WEEKS {\k47}GLOBAL {\k61}TEMPERATURES
+Dialogue: 0,0:00:59.52,0:01:01.86,Default,,0,0,0,,{\k47}PLUNGE {\k21}AS {\k92}PHOTOSYNTHESIS {\k70}COLLAPSES
+Dialogue: 0,0:01:01.86,0:01:03.07,Default,,0,0,0,,{\k18}AND {\k12}THE {\k54}ENTIRE {\k34}FOOD
+Dialogue: 0,0:01:03.07,0:01:05.03,Default,,0,0,0,,{\k34}CHAIN {\k35}BEGINS {\k11}TO {\k113}DISINTEGRATE.
+Dialogue: 0,0:01:05.03,0:01:06.38,Default,,0,0,0,,{\k19}THE {\k56}DARKNESS {\k33}LASTS {\k24}FOR
+Dialogue: 0,0:01:06.38,0:01:08.23,Default,,0,0,0,,{\k57}MONTHS {\k29}AND {\k45}SURFACE {\k53}TEMPERATURES
+Dialogue: 0,0:01:08.23,0:01:09.83,Default,,0,0,0,,{\k33}DROP {\k18}BY {\k49}TWENTY {\k57}DEGREES
+Dialogue: 0,0:01:09.83,0:01:11.53,Default,,0,0,0,,{\k55}TRIGGERING {\k17}A {\k37}MASS {\k59}EXTINCTION
+Dialogue: 0,0:01:11.53,0:01:12.83,Default,,0,0,0,,{\k47}EVENT {\k23}THAT {\k34}WIPES {\k24}OUT
+Dialogue: 0,0:01:12.83,0:01:14.39,Default,,0,0,0,,{\k51}SEVENTY {\k29}FIVE {\k55}PERCENT {\k19}OF
+Dialogue: 0,0:01:14.39,0:01:16.13,Default,,0,0,0,,{\k32}ALL {\k141}SPECIES.
+Dialogue: 0,0:01:16.13,0:01:18.50,Default,,0,0,0,,{\k45}ONLY {\k56}SMALL {\k63}UNDERGROUND {\k70}ORGANISMS
+Dialogue: 0,0:01:18.50,0:01:20.03,Default,,0,0,0,,{\k23}AND {\k34}DEEP {\k40}OCEAN {\k54}SPECIES
+Dialogue: 0,0:01:20.03,0:01:21.17,Default,,0,0,0,,{\k60}SURVIVE {\k12}THE {\k25}YEARS {\k15}OF
+Dialogue: 0,0:01:21.17,0:01:22.83,Default,,0,0,0,,{\k51}ACID {\k39}RAIN {\k24}AND {\k51}FROZEN
+Dialogue: 0,0:01:22.83,0:01:24.38,Default,,0,0,0,,{\k59}WASTELAND {\k18}THAT {\k77}FOLLOW.
+Dialogue: 0,0:01:24.38,0:01:25.81,Default,,0,0,0,,{\k38}THIS {\k21}IS {\k16}THE {\k66}REALITY
+Dialogue: 0,0:01:25.81,0:01:27.42,Default,,0,0,0,,{\k19}OF {\k20}A {\k54}GIANT {\k66}ASTEROID
+Dialogue: 0,0:01:27.42,0:01:29.95,Default,,0,0,0,,{\k85}IMPACTA {\k95}PLANETSCALE {\k53}RESET {\k18}THAT
+Dialogue: 0,0:01:29.95,0:01:32.42,Default,,0,0,0,,{\k59}ERASES {\k93}CIVILIZATIONS {\k27}AND {\k65}RESHAPES
+Dialogue: 0,0:01:32.42,0:01:33.34,Default,,0,0,0,,{\k12}THE {\k27}COURSE {\k15}OF {\k37}ALL
+Dialogue: 0,0:01:33.34,0:01:34.63,Default,,0,0,0,,{\k29}LIFE {\k22}ON {\k77}EARTH.
+Dialogue: 0,0:01:34.63,0:01:35.25,Default,,0,0,0,,{\k21}WHAT {\k10}DO {\k11}YOU {\k17}WANT
+Dialogue: 0,0:01:35.25,0:01:36.29,Default,,0,0,0,,{\k10}TO {\k20}SEE {\k73}NEXT?
+Dialogue: 0,0:01:36.29,0:01:37.30,Default,,0,0,0,,{\k35}DROP {\k18}YOUR {\k34}IDEA {\k11}IN
+Dialogue: 0,0:01:37.30,0:01:38.31,Default,,0,0,0,,{\k11}THE {\k89}COMMENTS
+Dialogue: 0,0:01:38.31,0:01:39.81,CTA,,0,0,0,,COMMENT 'SPACE' FOR MORE!
